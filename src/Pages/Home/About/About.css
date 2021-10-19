@@ -1,0 +1,15 @@
+.about{
+    margin-top: 20px;
+    padding: 20px;
+}
+.btn-more{
+    background-color: white;
+    color: #77cddf;
+    border: 1px solid #77cddf;
+    padding: 10px;
+    
+}
+.btn-more:hover{
+    background-color: #77cddf;
+    color: white;
+}

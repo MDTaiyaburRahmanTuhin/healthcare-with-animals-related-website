@@ -1,0 +1,15 @@
+.service{
+    border: 1px solid #77bfbc;
+    
+}
+
+@media only screen and (max-width: 688px){
+    .service-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+@media only screen and(min-width:689)and (max-width:991px){
+    .service-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

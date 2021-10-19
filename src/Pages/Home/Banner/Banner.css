@@ -1,0 +1,23 @@
+.banner {
+  background-image: url("http://webdesign-finder.com/fluffy-paw/wp-content/uploads/2016/11/slide-3.png");
+  height: 780px;
+  width: 100%;
+  /* border: 1px solid red; */
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.title {
+  color: #3c3c3c;
+  /* font-weight: bold; */
+  font-weight: normal;
+  font-size: 59px;
+}
+.boled{
+  font-weight: bolder;
+}
+small{
+  color: #3c3c3c;
+  font-size: 16px;
+}
